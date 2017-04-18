@@ -1,0 +1,11 @@
+﻿{
+  "runtimes": { 
+    "win": {} 
+  },
+  "frameworks": {
+    "net462":{} 
+  },
+  "dependencies": {
+    "Flurl.Signed":"2.3.0"
+  }
+}
